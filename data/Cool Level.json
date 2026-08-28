@@ -1,0 +1,18 @@
+{
+    "id": 147885934,
+    "name": "ElfikEzz",
+    "author": "ElfikEzz",
+    "creators": ["ElfikEzz"],
+    "verifier": "ElfikEzz",
+    "verification": "https://youtu.be/6nhKUEHoN6g",
+    "percentToQualify": 100,
+    "password": "idk",
+    "records": [
+        {
+            "user": "ElfikEzz",
+            "link": "https://youtu.be/6nhKUEHoN6g",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
